@@ -801,7 +801,7 @@ a {
   }
 }
 .cook__btn {
-  border-radius: 8px;
+  margin-top: 34px;
   padding: 30px 50px;
   background-color: var(--orange);
   -ms-flex-item-align: start;
